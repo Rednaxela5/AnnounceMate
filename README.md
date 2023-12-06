@@ -15,7 +15,7 @@ Your Instant Ally in Crafting Perfect Announcements!
 * [Roadmap](#roadmap)
 * [Contribute](#contribute)
 * [License](#license)
-* [Authors](#authors)
+* [Author](#author)
 
 # About the Website
 AnnounceMate is a website generator tool for important class announcement. It is easy to use and it is free.
