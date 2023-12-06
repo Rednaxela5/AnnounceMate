@@ -13,7 +13,7 @@ Your Instant Ally in Crafting Perfect Announcements!
   * [Screenshots](#screenshots)
   * [Built With](#built-with)
 * [Roadmap](#roadmap)
-* [Contribution](#contribution)
+* [Contribute](#contribute)
 * [License](#license)
 * [Authors](#authors)
 
