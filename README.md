@@ -47,6 +47,7 @@ The following tools and techonologies were involved in the making of this projec
 -   [ ] Improve the UI
 -   [ ] Improve the Contraints
 -   [ ] Connect to a Database
+-   [ ] Add options to share the announcement on socials
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <br>
